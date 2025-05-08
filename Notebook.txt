@@ -1,0 +1,12 @@
+
+color: burlywood
+comment in html : <!-- comment -->
+comment in css : /* comment */
+selectors in css: to select particular HTML element 
+like h1,h2,p 
+or by id="name" ->#name 
+or class="category1" -> .category1
+elements:
+ article
+ fieldbox
+ fallback value: -> Fallbacks are used in instances where the initial is not found/available.

@@ -10,3 +10,54 @@ elements:
  article
  fieldbox
  fallback value: -> Fallbacks are used in instances where the initial is not found/available.
+ 
+Day 1:
+HTML :- Markup language (No functionality, only for structure)
+head : meta data (additional information which is not viewed on the web page)
+body : content for the web page
+
+VS Code Extensions:
+ live server by ritwek dey
+ html snippets
+ ES7+
+ 
+Headings: <h1> to <h6>
+Paragraph: <p>
+Lists:
+	Ordered List (<ol>): Bulleted items
+	Unordered List (<ul>): Numbered items
+	Definition List (<dl>): Key-Value pairs
+<a> : hyperlinks
+attributes: 
+	href= url
+	target="_blank"
+Image Tag:
+	<img src="" alt="Description of Image">
+Table:
+
+Forms & Inputs:
+	1. textbox
+	2. CheckBox
+	3. Radio Button
+	4. Button
+	
+header: Page header
+section: Thematic grouping
+aside: Related content
+main: Main Content
+aricle: Self contained content
+nav: navigation links 
+footer: Page footer
+
+CSS:
+	1. Inline CSS
+	2. Internal CSS
+	3. External CSS
+	
+CSS Selectors:
+	1. Element selectors: p{ }
+	2. Class selector: .intro{ }
+	3. ID selector: #header{ }
+	4. Attribute selector: input[type ="text"]{ }
+	5. Pseudo-class: a:hower{ }
+	6. Pseudo-elemenet: p::first-line{ } 
